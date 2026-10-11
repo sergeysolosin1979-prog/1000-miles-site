@@ -1,0 +1,17 @@
+# Local tooling and secrets
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
+.env
+.env.*
+*.log
+*.keystore
+*.jks
+*.p12
+*.pem
+*.apk
+*.aab
+local.properties
+build/
